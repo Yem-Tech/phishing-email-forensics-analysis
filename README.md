@@ -191,10 +191,8 @@ Based on evidence collected from link analysis, attachment review, sender IP rep
 
 ## Author
 
-**Cybersecurity Analyst | Loram Maintenance of Way**
-Certifications: CCNA | Microsoft Azure | AWS | CompTIA Security+ | Python
-Education: Post-Graduate Diploma in Business Analytics | Diploma in French
-Currently pursuing: Advanced Cybersecurity Specialisation
+**Cybersecurity Analyst | HypertechAi**
+Certifications: CCNA | Microsoft Azure | AWS | CompTIA Security+ | Python | Cybersecurity
 
 ---
 

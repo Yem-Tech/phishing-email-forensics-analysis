@@ -12,7 +12,7 @@
 | **Case Title** | Suspected Phishing Email Investigation |
 | **Reported Through** | ServiceNow Incident Ticket |
 | **Evidence Item** | suspected_email.eml |
-| **Analyst** | Cybersecurity Analyst — SOC Tier 1 |
+| **Analyst** | Olayemi Owoeye |
 | **Assessment Status** | Completed — Findings Documented |
 | **Report Type** | Email Forensics / Threat Intelligence |
 
